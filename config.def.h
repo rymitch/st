@@ -4,9 +4,10 @@
  * appearance
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
+ * ryan: https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k
  */
-static char *font = "FiraCode:pixelsize=13:antialias=true:autohint=true";
-static int borderpx = 2;
+static char *font = "MesloLGS NF:style=Regular:pixelsize=13:antialias=true:autohint=true";
+static int borderpx = 1;
 
 /*
  * What program is execed by st depends of these precedence rules:
